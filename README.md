@@ -11,7 +11,7 @@
 - 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/1b_0-i_xosPr5_Ozno4_S9TZJsNxagc4f/view)
 
-### Languages & Tools:
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
