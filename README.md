@@ -11,6 +11,11 @@
 - 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/1b_0-i_xosPr5_Ozno4_S9TZJsNxagc4f/view)
 
+### Connect with Me:
+<p align="left">
+  <a href="https://www.instagram.com/gurjar__manish27__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manish-khatriya-ab8763249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
