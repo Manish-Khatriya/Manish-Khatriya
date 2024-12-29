@@ -9,7 +9,7 @@
 - 🌱 Currently learning **React** and **Node.js**
 - 💬 Ask me about **Full-Stack Development**
 - 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)
-- 📄 [Resume]([https://drive.google.com/file/d/1b_0-i_xosPr5_Ozno4_S9TZJsNxagc4f/view](https://drive.google.com/file/d/1N_QhHtXGfDA9p-19VfjJjS3lDU2roYka/view?usp=sharing)) | [Portfolio](https://manish-khatriya.github.io/New-Portfolio/)
+- 📄 [Resume](https://drive.google.com/file/d/1N_QhHtXGfDA9p-19VfjJjS3lDU2roYka/view?usp=sharing) | [Portfolio](https://manish-khatriya.github.io/New-Portfolio/)
 
 ### Connect with Me:
 <p align="left">
