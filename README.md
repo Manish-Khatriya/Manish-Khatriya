@@ -5,12 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=manish-khatriya&label=Profile%20views&color=0e75b6&style=flat" alt="manish-khatriya" />
 </p>
 
+---
+
 ### 🧑‍💻 About Me
 
-- 💻 Java Developer and now working on **Flutter App Development**  
-- 🌱 Currently learning **Flutter**  
-- 💬 Ask me about **Java Development**  
-- 📫 Reach me at: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)  
+- 💻 Java Developer, currently focused on **Flutter App Development**  
+- 🌱 Exploring **Flutter, Dart, and Mobile App Development**  
+- 💬 Ask me about **Java**, **Flutter**, or cross-platform apps  
+- 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)  
 - 📄 [Resume](https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing) | [Portfolio](https://manish-khatriya.github.io/Portfolio--2025/)
 
 ---
@@ -31,16 +33,15 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" alt="REST APIs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
@@ -50,12 +51,11 @@
 
 ---
 
-### 📊 My Stats
+### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish-khatriya&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+- **Most Used Languages**: `Java`, `Dart`, `HTML`, `CSS`, `JavaScript`
+- **Total Commits (2025)**: 44
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-khatriya&layout=compact&langs_count=10&hide_border=true&include_all_commits=true&theme=default" alt="Top Languages" />
-</p>
+---
+
+> ⚙️ Always learning and building new things. Let's connect and grow together!
