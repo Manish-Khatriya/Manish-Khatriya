@@ -6,8 +6,8 @@
 </p>
 
 ### About Me:
-- 🌱 Currently learning **React** and **Node.js**
-- 💬 Ask me about **Full-Stack Development**
+- 🌱 Currently learning **Flutter**
+- 💬 Ask me about **Java Development**
 - 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing) | [Portfolio](https://manish-khatriya.github.io/Portfolio--2025/)
 
