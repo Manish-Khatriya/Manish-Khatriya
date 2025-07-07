@@ -1,39 +1,61 @@
 <h1 align="center">Hi 👋, I'm Manish Khatriya</h1>
-<h3 align="center">Full Stack Developer from India</h3>
+<h3 align="center">Java Developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=manish-khatriya&label=Profile%20views&color=0e75b6&style=flat" alt="manish-khatriya" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manish-khatriya&label=Profile%20views&color=0e75b6&style=flat" alt="manish-khatriya" />
 </p>
 
-### About Me:
-- 🌱 Currently learning **Flutter**
-- 💬 Ask me about **Java Development**
-- 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)
+### 🧑‍💻 About Me
+
+- 💻 Java Developer and now working on **Flutter App Development**  
+- 🌱 Currently learning **Flutter**  
+- 💬 Ask me about **Java Development**  
+- 📫 Reach me at: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)  
 - 📄 [Resume](https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing) | [Portfolio](https://manish-khatriya.github.io/Portfolio--2025/)
 
-### Connect with Me:
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.instagram.com/gurjar__manish27__/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/manish-khatriya-ab8763249/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  <a href="https://www.instagram.com/gurjar__manish27__/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" alt="REST APIs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
 </p>
 
-### My Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-khatriya&show_icons=true&locale=en&layout=compact" alt="manish-khatriya" /></p>
+---
+
+### 📊 My Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish-khatriya&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-khatriya&layout=compact&langs_count=10&hide_border=true&include_all_commits=true&theme=default" alt="Top Languages" />
+</p>
