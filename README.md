@@ -14,8 +14,7 @@
 - 🌱 Currently exploring **Dart, Firebase**, and **Mobile App Optimization**
 - 💬 Ask me about **Flutter**, **Java**, or building cross-platform apps
 - 📫 Reach me: [manishkhatriya5@gmail.com](mailto:manishkhatriya5@gmail.com)  
-📄 [Resume](https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing) | 🌐 [Portfolio](https://manish-khatriya.github.io/My-Portfolio---2025/)
-
+- 📄 [Resume](https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing) | [Portfolio](https://manish-khatriya.github.io/My-Portfolio---2025/)
 
 ---
 
